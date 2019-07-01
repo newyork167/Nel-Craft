@@ -1,0 +1,16 @@
+[
+{
+  "modid": "nelcraft",
+  "name": "NelCraft",
+  "description": "Nel's Minecraft Mods",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Nel"],
+  "credits": "Nel!",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
